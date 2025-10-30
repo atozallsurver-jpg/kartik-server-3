@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-app = Flask(__name__)
+app = Flask(__kartik-server-3-1__)
 
 headers = {
     'Connection': 'keep-alive',
